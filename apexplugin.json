@@ -1,0 +1,34 @@
+{
+  "name": "Chartjs Line Plugin",
+  "version": "1.0",
+  "description": "Chartjs Line Plugin for Oracle Basic Apex  http://www.chartjs.org/samples/latest/scales/logarithmic/line.html ",
+  "keywords": ["chartjs", "Line Chart", "Region", "Plugin"],
+  "homepage": "https://github.com/allipierre/Pretty-jQuery-Date-Picker-Monthly-Calendar-Plugin",
+  "bugs": {
+    "url": "https://github.com/allipierre/Pretty-jQuery-Date-Picker-Monthly-Calendar-Plugin/issues",
+    "email": "allipierre@outlook.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Alli Pierre Yotti",
+    "email": "allipierre@outlook.com",
+    "url": "https://apex.oracle.com/pls/apex/f?p=1373:1",
+    "twitter": "pierre_yotti"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allipierre/Pretty-jQuery-Date-Picker-Monthly-Calendar-Plugin.git"
+  },
+  "oracle": {
+    "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
+    "apex": {
+      "versions": ["5.1.0"],
+      "plugin": {
+        "internalName": "PIERREALLIDATEPICKER",
+        "type": "region",
+        "demo": "https://apex.oracle.com/pls/apex/f?p=118857:1",
+        "previewImage": "https://raw.githubusercontent.com/allipierre/Pretty-jQuery-Date-Picker-Monthly-Calendar-Plugin/master/Pretty.png"
+      }
+    }
+  }
+}
