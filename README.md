@@ -1,12 +1,21 @@
 # Apex Region Plugin
-Pretty jQuery Date Picker &amp; Monthly Calendar Plugin
+Chart Line for Oracle Apex.
 
 # How to Use
 1. Create a Region
-2. Choose Type "Pierreallidatepicker"
-3. Under Attributes: - you can select the Item to Pass the Value of the Date
-                     - you can select the Style of the Date-Picker
+2. Choose Type "Chartjs Line [Plug-In]"
+3. Under Attributes: - you can select :
+
+- the Chart Title
+
+- background Color
+
+ - Border Color                                        
+                                        
+ - the Chart Label                                      
+                                        
+                                        
 
 # Preview
 
-![](https://github.com/allipierre/Pretty-jQuery-Date-Picker-Monthly-Calendar-Plugin/blob/master/Pretty.png)
+![](https://github.com/allipierre/Chart-Line-for-Oracle-Apex/blob/master/chartline.png)
