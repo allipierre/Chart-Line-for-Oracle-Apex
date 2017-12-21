@@ -18,4 +18,4 @@ Chart Line for Oracle Apex.
 
 # Preview
 
-![](https://github.com/allipierre/Chart-Line-for-Oracle-Apex/blob/master/Chart-Line.png)
+![](https://github.com/allipierre/Chart-Line-for-Oracle-Apex/blob/master/chartline.png)
