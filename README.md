@@ -1,5 +1,5 @@
 # Apex Region Plugin
-Chart Line for Oracle Apex. This Chart use that Library http://www.chartjs.org/samples/latest/scales/logarithmic/line.html
+Chart Line for Oracle Apex.
 
 # How to Use
 1. Create a Region
