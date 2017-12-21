@@ -1,6 +1,7 @@
 # Apex Region Plugin
 Chart Line for Oracle Apex.
 
+
 # How to Use
 1. Create a Region
 2. Choose Type "Chartjs Line [Plug-In]"
