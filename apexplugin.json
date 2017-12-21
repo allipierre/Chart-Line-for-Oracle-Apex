@@ -1,7 +1,7 @@
 {
   "name": "Chartjs Line Plugin",
   "version": "1.0",
-  "description": "Chartjs Line Plugin for Oracle Basic Apex  http://www.chartjs.org/samples/latest/scales/logarithmic/line.html ",
+  "description": "Chartjs Line Plugin for Oracle Basic Apex",
   "keywords": ["chartjs", "Line Chart", "Region", "Plugin"],
   "homepage": "https://github.com/allipierre/Chart-Line-for-Oracle-Apex",
   "bugs": {
