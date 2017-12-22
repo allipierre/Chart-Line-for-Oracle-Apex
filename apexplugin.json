@@ -1,7 +1,8 @@
 {
   "name": "Chartjs Line Plugin",
   "version": "1.0",
-  "description": "Chartjs Line Plugin for Oracle Application Express",
+  "description": "Chartjs Line Plugin for Oracle Application Express
+  Login: demo/demo",
   "keywords": ["chartjs", "Line Chart", "Region", "Plugin"],
   "homepage": "https://github.com/allipierre/Chart-Line-for-Oracle-Apex",
   "bugs": {
